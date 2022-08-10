@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Komalbhartishivanichaudhary@gmail.com**
 
-- ⚡ Fun fact **simple and silent guys.**
+
 
 
 
