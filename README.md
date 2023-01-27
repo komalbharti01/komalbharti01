@@ -1,4 +1,4 @@
-<h1 align="center">hey!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  I'm Komal Bharti aka Lalan Komal Chaudhary</h1>
+<h1 align="center">hey!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  I'm Komal Bharti </h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=komalbharti01.komalbharti01)
