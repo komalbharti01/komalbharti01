@@ -1,17 +1,17 @@
 <h1 align="center">hey!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">  I'm Komal Bharti </h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A Passionate Data Scientist </h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=komalbharti01.komalbharti01)
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="450" height="300" />
 
 
-- 🔭 I’m currently working on **Mini Project**
+- 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning and Big Data**
 
-- 💬 Ask me about **Data Science technology**
+- 💬 Ask me about **Data Science Technology**
 
-- 📫 How to reach me **Komalbhartishivanichaudhary@gmail.com**
+- 📫 How to reach me **komalbhartishivanichaudhary@gmail.com**
 
 
 
